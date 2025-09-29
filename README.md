@@ -1,32 +1,76 @@
-# UniversityProjects
-Showcasing my projects in AI and Data Science, this repository includes machine learning models, data analytics, and automation scripts. It highlights my skills in Python and SQL, problem-solving, and project management. My work reflects a strong ability to translate data into insights and leverage AI for innovation and efficiency. 🚀
+# 🎓 UniversityProjects
+Welcome to my academic portfolio — a curated collection of university projects completed during my studies in **Applied Data Science & Artificial Intelligence** at Breda University of Applied Sciences.  
 
-🎓 Maria Salop — University Projects Portfolio Welcome to my academic portfolio — a curated collection of university projects that showcase my experience and passion for data science, computer vision, predictive modeling, and research. Each project reflects a hands-on application of theory to real-world challenges, developed using tools like Python, TensorFlow, Power BI, and more.
+This repository highlights my skills in **machine learning, computer vision, natural language processing, predictive modeling, and research**. Each project reflects a hands-on application of theory to real-world challenges, developed using tools like **Python, TensorFlow, Power BI, SQL, and Docker**. 🚀
 
-This repository is designed for potential employers and internship recruiters to explore my technical and analytical capabilities.
+---
 
-📁 Projects Overview 🔬 Computer Vision: Root Length Prediction Developed a deep learning model to predict root length from plant images. The pipeline includes image preprocessing, feature extraction, and regression modeling using TensorFlow/Keras.
+## 📁 Projects Overview
 
-Key skills: Image processing, CNNs, Regression, Data augmentation
+### 🔬 Computer Vision – Root Length Detection
+Developed a deep learning pipeline to segment plant roots and measure primary root length from Petri dish images using U-Net and image post-processing techniques. Results were exported to CSV for analysis.  
 
-📊 Data Analysis Exploratory and statistical analysis of datasets using Python libraries such as Pandas, Matplotlib, and Seaborn. Focused on uncovering trends, distributions, and insights through data visualization and hypothesis testing.
+**Key skills:** Computer Vision, Deep Learning, U-Net, Image Segmentation, Python
 
-Key skills: EDA, Visualization, Python, Statistics
+---
 
-📈 Data Science Project – Power BI Dashboard A business-oriented data science project leveraging Power BI to explore variable relationships and present insights in a visual, interactive format.
+### 🗑️ Recycle Detection
+Built a **CNN image classifier** to categorize recyclable materials (plastic, paper, metal, cardboard). The project demonstrates image preprocessing, transfer learning, and model evaluation.  
 
-Key skills: Power BI, Data storytelling, Business intelligence, KPI tracking
+**Key skills:** Deep Learning, TensorFlow, Image Classification, Model Tuning
 
-🧠 Deep Learning – Image Classifier for recyclable materials a CNN model to classify recyclable materials such as plastic, paper, metal, and cardboard using an image dataset. The project demonstrates computer vision techniques, transfer learning, and evaluation of model performance.
+---
 
-Key skills: Deep Learning, TensorFlow, Image classification, Model tuning
+### 📊 NAC Breda Player Evaluation
+Data analysis and predictive modeling project for NAC Breda to assess player market value and development strategy.  
+Due to NDA restrictions, only the **final report** is shareable.  
 
-🚧 Predictive Model for Forecasting Incident Severity in Breda (Client: ANWB) Developed a predictive model in collaboration with ANWB to forecast road incident severity in Breda. Due to NDA restrictions, only the final presentation is available.
+**Key skills:** Data Analysis, Machine Learning, Ethics in AI, GDPR Compliance
 
-Key skills: Predictive analytics, Client collaboration, Data modeling, Real-world application
+---
 
-📚 Research Papers Individual Research Paper: Investigated employees’ perceptions of generative AI as either a career growth opportunity or a job threat in SMEs. Group Policy Paper: Co-authored a strategic policy paper on ethical AI implementation in organizations. Key skills: Academic writing, Qualitative & quantitative research, Policy analysis
+### 📉 AirQuality GlobalDeaths Dashboard
+Designed an interactive **Power BI dashboard** analyzing global deaths caused by air pollution.  
+The project applied **CRISP-DM methodology**, data-driven storytelling, and UX-focused visualization.  
 
-✨ About Me I'm a third-year student in Data Science & Artificial Intelligence, passionate about applying AI solutions to societal and business challenges. This repository reflects both my technical growth and collaborative experience in real-world projects.
+**Key skills:** Power BI, Data Storytelling, Business Intelligence
 
-📫 Let's Connect I'm currently seeking internship opportunities in AI, data science, or computer vision. If you’d like to get in touch, feel free to reach out via LinkedIn or email.
+---
+
+### 🤖 Chatbots & Customer Satisfaction  
+Research-based project with Digiwerkplaats, exploring the **impact of chatbots** on customer trust, comfort, and satisfaction. Deliverables include an **EDA notebook, an individual research paper, and a policy paper**.  
+
+**Key skills:** Qualitative Research, EDA, Policy Analysis, Survey Design
+
+---
+
+### 🧠 Emotion Classification Research
+Explored **speech-to-text, feature extraction, WER analysis, and transformer-based classification** for emotion detection in audio/text.  
+The pipeline included model iterations, prompt engineering, and error analysis.  
+
+**Key skills:** NLP, Speech-to-Text, Hugging Face Transformers, Model Evaluation
+
+---
+
+### 🚀 Emotion Classification Deployment
+Extended the research into a **deployable product**:  
+- FastAPI inference API  
+- Dockerized pipeline  
+- Azure ML deployment  
+- Streamlit demo frontend  
+
+**Key skills:** MLOps, Docker, FastAPI, Azure ML, Streamlit, Deployment
+
+---
+
+## ✨ About Me
+I’m **Maria Salop**, a third-year student in **Applied Data Science & Artificial Intelligence**, passionate about applying AI solutions to **societal and business challenges**.  
+
+This repository reflects both my **technical growth** and **collaborative experience** in real-world projects.  
+
+---
+
+## 📫 Let’s Connect
+I’m currently seeking internship opportunities in AI and Data Science across research, analytics, and applied machine learning.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/your-linkedin-profile)  
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:salopmaria37@gmail.com)
