@@ -21,7 +21,7 @@ The work was part of an academic project in Applied Data Science & AI.
 
 ## Repository Structure  
 
-```text
+```
 ComputerVision_RootLength/
 ├─ README.md
 ├─ RootLength_Detection.ipynb                # end-to-end pipeline
@@ -36,7 +36,8 @@ ComputerVision_RootLength/
 ├─ results/
 │  └─ primary_root_lengths_v2.csv            # per-plant primary root lengths (px)
 └─ presentation/
-   └─ RootLength_Project_Presentation.pdf    # slides
+    └─ RootLength_Project_Presentation.pdf    # slides
+```
 
 ---
 
