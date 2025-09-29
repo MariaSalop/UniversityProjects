@@ -1,0 +1,25 @@
+2025-05-20 15:48:41 - DEBUG - Loading model from C:\Users\User\Documents\GitHub\2024-25d-fai2-adsai-group-nlp8\emotion_7
+2025-05-20 15:52:01 - DEBUG - Loading Hugging Face model and tokenizer from C:\Users\User\Documents\GitHub\2024-25d-fai2-adsai-group-nlp8\emotion_7
+2025-05-20 15:52:23 - DEBUG - Tokenized input: {'input_ids': <tf.Tensor: shape=(3, 8), dtype=int32, numpy=
+array([[    0,   100,   524,    98,  1372,   452,   328,     2],
+       [    0,   713,    16,    98, 10314,   734,     2,     1],
+       [    0,   100,   619,  7974,    59,    42,     4,     2]])>, 'attention_mask': <tf.Tensor: shape=(3, 8), dtype=int32, numpy=
+array([[1, 1, 1, 1, 1, 1, 1, 1],
+       [1, 1, 1, 1, 1, 1, 1, 0],
+       [1, 1, 1, 1, 1, 1, 1, 1]])>}
+2025-05-20 15:52:23 - DEBUG - Raw logits: [[-1.2643785   6.625032   -1.8130536  -0.10112229 -1.3664435  -1.5567241
+   0.15739432]
+ [ 0.4758415  -2.3482852   4.355452   -1.9757968   1.0399104  -0.32725897
+  -1.0695846 ]
+ [-1.1053036   2.769381   -2.486739    2.7108974  -0.11706835 -1.363109
+  -0.41814837]]
+2025-05-20 15:52:23 - DEBUG - Predictions (probabilities): [[3.7321201e-04 9.9605441e-01 2.1561008e-04 1.1944042e-03 3.3699954e-04
+  2.7860672e-04 1.5467630e-03]
+ [1.9241931e-02 1.1422101e-03 9.3141258e-01 1.6577373e-03 3.3823662e-02
+  8.6191902e-03 4.1027847e-03]
+ [9.9703567e-03 4.8024729e-01 2.5047313e-03 4.5296624e-01 2.6785262e-02
+  7.7045499e-03 1.9821592e-02]]
+2025-05-20 15:52:23 - DEBUG - Predicted emotion class indices: [1 2 1]
+2025-05-20 15:52:23 - INFO - Text: "I am so happy today!" -> Predicted emotion class: 1
+2025-05-20 15:52:23 - INFO - Text: "This is so frustrating..." -> Predicted emotion class: 2
+2025-05-20 15:52:23 - INFO - Text: "I feel neutral about this." -> Predicted emotion class: 1
