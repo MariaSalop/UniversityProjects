@@ -1,0 +1,81 @@
+# .github/workflows/test.yml
+ 
+name: Test Suite
+ 
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+ 
+jobs:
+  build-and-test:
+    runs-on: ubuntu-latest
+ 
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Cache Poetry cache
+        uses: actions/cache@v3
+        with:
+          path: ~/.cache/pypoetry
+          key: ${{ runner.os }}-poetry-${{ hashFiles('**/poetry.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-poetry-
+ 
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'  # Match your Python version requirement
+ 
+      - name: Install Poetry
+        run: curl -sSL https://install.python-poetry.org | python3 -
+ 
+      - name: Add Poetry to PATH
+        run: echo "$HOME/.local/bin" >> $GITHUB_PATH
+ 
+      - name: Install dependencies
+        working-directory: ./Project_NLP8
+        run: |
+          poetry config virtualenvs.create false
+          poetry install --with dev --no-interaction --no-ansi
+
+      - name: Run tests with coverage
+        working-directory: ./Project_NLP8
+        env:
+          PYTHONPATH: "${{ github.workspace }}/Project_NLP8/FastApi_deploying"
+        run: poetry run pytest -n auto --maxfail=1 --disable-warnings -q
+
+      - name: Azure login
+        uses: azure/login@v2
+        with:
+          creds: ${{ secrets.AZURE_CREDENTIALS }}
+          auth-type: SERVICE_PRINCIPAL
+
+      - name: Validate Azure ML pipeline (schema only)
+        env:
+          AZ_SUB_ID: ${{ secrets.AZ_SUB_ID }}
+          AZ_RG:     ${{ secrets.AZ_RG }}
+          AZ_WS:     ${{ secrets.AZ_WS }}
+        run: |
+          pip install "azure-ai-ml>=1.16" ruamel.yaml
+          az extension add -n ml -y
+          az account set --subscription $AZ_SUB_ID
+          az ml job validate \
+              --file Project_NLP8/azureml/pipeline_retrain.yml \
+              --resource-group $AZ_RG \
+              --workspace-name $AZ_WS
+      
+      - name: Upload coverage to Codecov
+        uses: codecov/codecov-action@v4
+        with:
+          token: ${{ secrets.CODECOV_TOKEN }}
+          files: ./Project_NLP8/coverage.xml
+          fail_ci_if_error: true
+
+      - name: Upload test results
+        uses: actions/upload-artifact@v4
+        with:
+          name: test-results
+          path: Project_NLP8/results.xml
