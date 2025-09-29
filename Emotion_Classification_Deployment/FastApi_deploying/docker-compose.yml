@@ -1,0 +1,40 @@
+version: '3.8'
+
+services:
+  backend:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "3130:8000"
+    restart: unless-stopped
+    environment:
+      - HF_TOKEN=
+      - AZURE_TENANT_ID=0a33589b-0036-4fe8-a829-3ed0926af886
+      - AZURE_CLIENT_ID=a2230f31-0fda-428d-8c5c-ec79e91a49f5
+      - AZURE_CLIENT_SECRET=
+      - AZURE_SUBSCRIPTION_ID=0a94de80-6d3b-49f2-b3e9-ec5818862801
+      - AZURE_RESOURCE_GROUP=buas-y2
+      - AZURE_WORKSPACE_NAME=NLP8-2025
+    volumes:
+      - shared-data:/app/output
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 10s
+
+  frontend:
+    build:
+      context: .
+      dockerfile: Dockerfile.streamlit
+    ports:
+      - "3134:8501"
+    depends_on:
+      - backend
+    volumes:
+      - shared-data:/app/api
+
+volumes:
+  shared-data:

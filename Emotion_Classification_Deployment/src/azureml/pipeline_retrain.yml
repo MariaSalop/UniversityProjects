@@ -1,0 +1,42 @@
+$schema: https://azuremlschemas.azureedge.net/latest/pipelineJob.schema.json
+type: pipeline
+experiment_name: nlp8_retrain
+description: "End-to-end pipeline: data prep → train → eval → register"
+compute: adsai-lambda-0
+
+inputs:
+  raw_data:
+    type: uri_file
+    path: azureml:processed_text_data@latest
+
+jobs:
+  prep:
+    type:     command
+    component: ./components/prep.yaml
+    inputs:
+      raw_csv: ${{parent.inputs.raw_data}}
+
+  train:
+    type:     command
+    component: ./components/train.yaml
+    inputs:
+      train_csv: ${{parent.jobs.prep.outputs.clean_csv}}
+      val_csv:   ${{parent.jobs.prep.outputs.clean_csv}}
+      pretrained_dir: azureml://subscriptions/0a94de80-6d3b-49f2-b3e9-ec5818862801/resourceGroups/buas-y2/providers/Microsoft.MachineLearningServices/workspaces/NLP8-2025/models/nlp8_model_clean/versions/1
+
+    outputs:
+      model_out:   ${{parent.outputs.trained_model}}
+      metrics_out: ${{parent.outputs.train_metrics}}
+
+  eval:
+    type:     command
+    component: ./components/eval.yaml
+    inputs:
+      metrics_json: ${{parent.jobs.train.outputs.metrics_out}}
+
+  register:
+    type:     command
+    component: ./components/register.yaml
+    inputs:
+      model_folder: ${{parent.jobs.train.outputs.model_out}}
+      eval_metrics: ${{parent.jobs.eval.outputs.eval_metrics}}

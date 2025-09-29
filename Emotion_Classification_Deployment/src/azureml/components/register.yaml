@@ -1,0 +1,19 @@
+$schema: https://azuremlschemas.azureedge.net/latest/commandComponent.schema.json
+name: register_model
+display_name: Register trained model
+version: 0.0.1
+type: command
+inputs:
+  model_folder:
+    type: uri_folder
+  eval_metrics:
+    type: uri_file
+
+outputs:
+  registry_info:
+    type: uri_file
+
+code: ../../src
+environment: azureml:nlp8-env2:5
+command: >-
+  python register_step.py --model_folder ${{inputs.model_folder}} --eval_metrics ${{inputs.eval_metrics}} --registry_out ${{outputs.registry_info}}

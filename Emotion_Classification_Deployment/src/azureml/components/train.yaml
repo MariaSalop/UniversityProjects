@@ -1,0 +1,25 @@
+$schema: https://azuremlschemas.azureedge.net/latest/commandComponent.schema.json
+name: emotion_train
+display_name: Train RoBERTa classifier
+version: 0.0.1
+type: command
+
+inputs:
+  train_csv:
+    type: uri_file
+  val_csv:
+    type: uri_file
+  pretrained_dir:
+    type: custom_model
+    optional: true
+
+outputs:
+  model_out:
+    type: uri_folder
+  metrics_out:
+    type: uri_file
+  
+code: ../../src
+environment: azureml:nlp8-env2:5
+command: >-
+  python train_step.py --train_csv ${{inputs.train_csv}} --val_csv ${{inputs.val_csv}} $[[ --pretrained_dir ${{inputs.pretrained_dir}} ]] --model_out ${{outputs.model_out}} --metrics_out ${{outputs.metrics_out}}
