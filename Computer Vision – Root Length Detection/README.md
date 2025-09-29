@@ -21,21 +21,22 @@ The work was part of an academic project in Applied Data Science & AI.
 
 ## Repository Structure  
 
+```text
 ComputerVision_RootLength/
-README.md
-RootLength_Detection.ipynb                 # end-to-end pipeline
-src/
-    task_8_helpers.py                      # f1, crop_to_petri_dish, padder, RSA utils
-models/
-    SalopMaria_230574_unet_model_128px.h5  # trained U-Net weights
-data/
-    images/                                # input plates (not pushed to repo)
-    masks/                                 # model outputs (18)
-    divided_masks/                         # 5 per plate (90)
-results/
-    primary_root_lengths_v2.csv            # per-plant primary root lengths (px)
-presentation/
-    RootLength_Project_Presentation.pdf    # slides
+├─ README.md
+├─ RootLength_Detection.ipynb                # end-to-end pipeline
+├─ src/
+│  └─ task_8_helpers.py                      # f1, crop_to_petri_dish, padder, RSA utils
+├─ models/
+│  └─ SalopMaria_230574_unet_model_128px.h5  # trained U-Net weights
+├─ data/
+│  ├─ images/                                # input plates (not pushed to repo)
+│  ├─ masks/                                 # model outputs (18)
+│  └─ divided_masks/                         # 5 per plate (90)
+├─ results/
+│  └─ primary_root_lengths_v2.csv            # per-plant primary root lengths (px)
+└─ presentation/
+   └─ RootLength_Project_Presentation.pdf    # slides
 
 ---
 
