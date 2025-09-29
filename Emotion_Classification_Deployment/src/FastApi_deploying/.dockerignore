@@ -1,0 +1,36 @@
+# Ignore Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+ 
+# Ignore virtual environments
+.venv/
+env/
+venv/
+ 
+# Ignore Git
+.git/
+.gitignore
+ 
+# Ignore IDE/editor settings
+.vscode/
+.idea/
+ 
+# Ignore Dockerfiles or docker-compose override files if not needed
+docker-compose.override.yml
+ 
+# Ignore tests and coverage results (if not needed in image)
+tests/
+coverage.xml
+htmlcov/
+*.cover
+ 
+# Ignore documentation
+docs/
+ 
+# Ignore temporary files
+*.log
+*.tmp
+*.swp
+.DS_Store
