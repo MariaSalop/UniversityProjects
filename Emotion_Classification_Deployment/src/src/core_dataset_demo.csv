@@ -1,0 +1,11 @@
+text,predicted_emotion,low_confidence_flag
+Do you have a friend? No I do not have a friend.,sadness,True
+"Do you want a single? Yes, I've been single for four years.",sadness,True
+Oh. But do you think that...,joy,False
+"Consciously, not consciously. I think it's good that it is.",joy,False
+You're not going to look for it either? No.,sadness,True
+"It is open to it, but it is not.",surprise,True
+Maybe that is a genuine way to recognize each other better.,joy,False
+"We're going to have a quiz later. Yes, okay.",sadness,False
+You go first.,sadness,False
+"You are Sonja. Sonja, 26 years old.",sadness,False
