@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+<<<<<<< Updated upstream
+torch
+transformers
+safetensors
+pydantic
+=======
+pydantic
+torch
+transformers
+pandas
+openai-whisper
+yt-dlp
+nltk==3.8.1
+python-multipart
+>>>>>>> Stashed changes

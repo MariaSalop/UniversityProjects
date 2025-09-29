@@ -1,0 +1,999 @@
+[2025-06-27 02:44:54,147] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:54,149] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:54,151] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:54,169] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:54,170] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:54,189] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:54,190] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:54,196] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:54,198] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:54,210] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:54,229] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:54,229] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:54,251] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:54,252] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:54,268] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:54,268] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:54,287] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:54,305] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:54,315] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:54,322] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:54,342] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:54,343] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:54,361] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:54,377] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:54,379] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:54,399] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:54,419] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:54,437] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:54,437] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:54,454] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:54,455] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:54,459] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:54,476] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:54,477] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:54,495] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:54,496] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:54,514] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:54,515] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:54,533] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:54,533] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:54,548] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:54,550] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:54,553] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:54,573] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:54,579] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:54,590] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:54,594] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:54,608] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:54,625] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:54,628] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:54,642] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:54,644] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:54,657] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:54,671] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:54,672] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:54,674] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:54,676] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:54,690] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:54,690] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:54,704] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:54,706] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:54,726] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:54,743] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:54,760] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:54,778] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:54,778] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:54,780] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:54,797] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:54,820] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:54,839] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:54,858] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:54,876] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:54,890] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:54,891] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:54,891] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:54,891] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:54,895] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:54,899] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:54,899] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:54,919] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:54,936] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:54,939] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:54,958] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:54,959] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:54,976] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:54,977] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:54,995] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:55,013] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:55,032] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:55,033] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:55,049] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:55,065] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:55,076] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:55,082] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:55,098] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:55,108] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:55,118] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:55,137] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:55,144] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:55,160] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:55,179] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:55,194] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:55,210] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:55,248] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:55,248] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:55,249] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:55,296] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:55,301] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:55,309] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:55,334] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:55,373] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:55,386] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:55,419] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:55,430] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:55,442] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:55,461] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:55,461] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:55,479] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:55,480] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:55,495] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:55,513] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:55,528] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:55,536] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:55,555] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:55,574] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:55,574] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:55,578] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:55,587] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:55,593] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:55,607] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:55,609] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:55,623] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:55,633] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:55,638] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:55,639] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:55,654] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:55,669] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:55,670] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:55,676] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:55,684] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:55,690] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:55,690] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:55,710] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:55,716] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:55,728] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:55,745] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:55,745] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:55,761] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:55,763] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:55,781] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:55,793] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:55,794] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:55,799] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:55,819] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:55,824] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:55,838] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:55,856] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:55,871] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:55,877] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:55,896] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:55,902] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:55,915] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:55,935] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:55,954] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:55,973] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:55,980] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:55,981] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:55,992] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:55,992] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:55,993] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:55,996] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:56,015] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:56,036] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:56,036] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:56,055] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:56,055] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:56,072] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:56,073] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:56,076] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:56,079] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:56,092] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:56,110] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:56,120] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:56,125] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:56,128] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:56,136] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:56,137] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:56,146] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:56,167] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:56,170] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:56,183] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:56,183] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:56,192] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:56,209] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:56,210] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:56,230] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:56,242] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:56,244] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:56,248] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:56,258] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:56,258] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:56,278] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:56,292] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:56,301] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:56,301] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:56,302] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:56,324] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:56,341] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:56,360] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:56,360] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:56,378] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:56,378] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:56,397] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:56,417] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:56,420] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:56,438] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:56,458] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:56,477] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:56,494] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:56,495] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:56,496] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:56,500] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:56,500] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:56,522] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:56,540] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:56,544] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:56,545] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:56,567] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:56,568] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:56,587] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:56,591] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:56,601] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:56,602] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:56,603] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:56,614] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:56,633] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:56,636] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:56,656] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:56,657] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:56,658] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:56,664] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:56,679] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:56,680] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:56,697] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:56,701] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:56,720] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:56,728] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:56,728] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:56,739] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:56,739] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:56,756] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:56,773] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:56,774] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:56,777] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:56,802] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:56,803] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:56,828] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:56,848] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:56,848] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:56,870] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:56,881] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:56,890] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:56,910] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:56,910] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:56,934] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:56,953] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:56,973] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:56,974] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:56,993] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:57,005] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:57,013] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:57,035] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:57,039] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:57,058] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:57,076] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:57,091] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:57,111] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:57,111] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:57,129] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:57,147] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:57,166] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:57,177] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:57,177] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:57,201] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:57,202] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:57,223] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:57,242] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:57,271] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:57,311] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:57,312] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:57,332] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:57,398] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:57,401] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:57,415] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:57,461] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:57,492] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:57,500] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:57,505] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:57,529] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:57,533] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:57,537] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:57,542] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:57,547] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:57,574] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:57,578] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:57,593] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:57,602] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:57,604] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:57,609] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:57,627] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:57,645] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:57,663] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:57,663] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:57,681] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:57,693] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:57,701] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:57,702] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:57,724] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:57,724] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:57,725] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:57,739] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:57,742] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:57,759] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:57,776] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:57,797] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:57,817] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:57,818] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:57,820] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:57,833] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:57,834] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:57,835] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:57,840] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:57,859] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:57,879] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:57,879] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:57,884] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:57,903] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:57,903] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:57,921] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:57,938] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:57,938] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:57,941] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:57,956] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:57,959] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:57,978] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:57,979] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:57,999] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:58,018] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:58,018] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:58,036] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:58,054] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:58,066] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:58,073] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:58,074] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:58,093] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:58,094] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:58,113] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:58,132] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:58,137] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:58,151] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:58,175] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:58,190] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:58,193] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:58,195] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:58,196] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:58,197] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:58,212] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:58,222] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:58,223] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:58,231] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:58,251] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:58,251] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:58,253] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:58,269] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:58,271] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:58,293] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:58,293] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:58,294] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:58,312] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:58,331] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:58,332] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:58,348] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:58,349] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:58,350] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:58,363] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:58,365] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:58,369] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:58,388] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:58,395] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:58,407] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:58,407] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:58,425] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:58,442] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:58,444] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:58,458] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:58,464] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:58,474] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:58,483] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:58,503] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:58,521] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:58,522] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:58,525] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:58,547] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:58,568] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:58,569] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:58,590] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:58,601] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:58,603] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:58,613] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:58,632] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:58,633] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:58,647] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:58,648] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:58,651] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:58,653] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:58,663] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:58,671] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:58,679] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:58,688] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:58,689] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:58,706] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:58,706] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:58,723] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:58,743] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:58,757] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:58,764] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:58,786] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:58,786] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:58,811] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:58,830] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:58,835] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:58,850] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:58,850] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:58,877] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:58,877] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:58,896] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:58,896] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:58,914] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:58,914] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:58,917] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:58,918] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:58,936] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:58,954] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:58,954] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:58,960] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:58,973] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:58,993] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:59,006] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:59,014] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:59,034] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:59,054] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:59,072] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:59,091] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:59,108] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:59,116] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:59,126] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:59,145] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:59,145] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:59,163] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:59,180] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:59,183] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:59,202] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:59,202] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:59,203] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:59,222] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:59,222] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:59,223] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:59,227] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:59,243] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:59,244] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:59,269] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:59,288] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:59,289] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:59,289] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:59,292] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:59,315] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:59,319] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:59,336] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:59,356] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:59,356] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:59,375] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:59,375] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:59,397] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:59,398] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:59,399] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:59,399] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:59,404] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:59,421] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:59,439] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:59,458] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:59,462] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:59,483] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:59,489] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:59,505] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:59,524] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:59,548] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:59,548] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:59,569] Maria/INFO/locust_test: Received response: {"text":"I am happy with this test!","predicted_class":1,"predicted_label":"joy","emotions":[{"label":"anger","score":0.0005625688936561346},{"label":"joy","score":0.9878124594688416},{"label":"optimism","score":0.00029536677175201476},{"label":"sadness","score":0.007120172493159771},{"label":"surprise","score":0.0003263590042479336},{"label":"fear","score":0.0004175978829152882},{"label":"disgust","score":0.00346567970700562}]}
+
+[2025-06-27 02:44:59,587] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
+
+[2025-06-27 02:44:59,588] Maria/INFO/locust_test: Sending prediction request with payload: {'text': 'I am happy with this test!'}
