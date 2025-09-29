@@ -1,0 +1,17 @@
+$schema: https://azuremlschemas.azureedge.net/latest/commandComponent.schema.json
+name: data_prep
+display_name: Clean raw text
+version: 0.0.1
+type: command
+inputs:
+  raw_csv:
+    type: uri_file
+
+outputs:
+  clean_csv:
+    type: uri_file
+
+code: ../../src
+environment: azureml:nlp8-env2:5
+command: >-
+  python preprocess_step.py --input_csv ${{inputs.raw_csv}} --output_csv ${{outputs.clean_csv}}
