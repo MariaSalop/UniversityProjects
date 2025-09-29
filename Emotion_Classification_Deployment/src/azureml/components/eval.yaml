@@ -1,0 +1,17 @@
+$schema: https://azuremlschemas.azureedge.net/latest/commandComponent.schema.json
+name: eval_metrics
+display_name: Log evaluation metrics
+version: 0.0.1
+type: command
+inputs:
+  metrics_json:
+    type: uri_file
+
+outputs:
+  eval_metrics:
+    type: uri_file
+
+code: ../../src
+environment: azureml:nlp8-env2:5
+command: >-
+  python evaluate_step.py --metrics_in ${{inputs.metrics_json}} --metrics_out ${{outputs.eval_metrics}}

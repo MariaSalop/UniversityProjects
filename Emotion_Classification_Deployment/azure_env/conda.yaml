@@ -1,0 +1,14 @@
+name: nlp8-env3
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.8
+  - pip
+  - pip:
+      - transformers
+      - datasets
+      - scikit-learn
+      - torch
+      - optuna
+      - joblib
