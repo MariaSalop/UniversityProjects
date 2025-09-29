@@ -72,5 +72,5 @@ This repository reflects both my **technical growth** and **collaborative experi
 
 ## 📫 Let’s Connect
 I’m currently seeking internship opportunities in AI and Data Science across research, analytics, and applied machine learning.
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/your-linkedin-profile)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/maria-salop-03a20a22a/)  
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:salopmaria37@gmail.com)
