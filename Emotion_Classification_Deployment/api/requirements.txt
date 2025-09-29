@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+torch
+transformers
+safetensors
+pydantic
+pandas
+openai-whisper
+yt-dlp
+nltk==3.8.1
+python-multipart
