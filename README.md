@@ -76,3 +76,6 @@ I’m currently seeking internship opportunities in AI and Data Science across r
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/maria-salop-03a20a22a/)  
 
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:salopmaria37@gmail.com)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-purple)](https://mariasalop.github.io/)
+
